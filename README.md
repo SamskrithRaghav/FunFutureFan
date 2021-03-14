@@ -3,8 +3,7 @@ Here is the code for my "Fan of the Future" project, my science fair project for
 
 ## Prototype
 
-![Image of Prototype]
-(https://github.com/SamskrithRaghav/FunFutureFan/blob/main/img/Fan%20of%20the%20Future%20Prototype.png)
+![Image of the prototypes](https://github.com/SamskrithRaghav/FunFutureFan/blob/main/img/Fan%20of%20the%20Future%20Prototype.png)
 
 ### REQUIREMENTS
 - ESP32-CAM
